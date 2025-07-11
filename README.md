@@ -1,5 +1,9 @@
 ## Olá, eu sou o Lucas Kenji, desenvolvedor back-end. Contatos na descrição do perfil!
 
+<h2 align="left" id="macropower-tech">Tecnologias Favoritas</h2>
+
+> Ferramentas e Linguagens que eu gosto de trabalhar.
+
 <p align="center">
   <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
