@@ -1,4 +1,13 @@
-## Olá, eu sou o Lucas Kenji, desenvolvedor back-end. Contatos na descrição do perfil!
+<h1 align="center">Olá, eu sou o Lucas Kenji, desenvolvedor back-end. Contatos abaixo!</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaskenji/">
+    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lucaskenjidev@gmail.com">
+    <img src="https://img.shields.io/badge/-contato@fernandakipper.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
 ## 👩‍💻 Sobre Mim <br>
 🔭 Desenvolvedor Back-End <br>
