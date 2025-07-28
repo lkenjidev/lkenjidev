@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Kenji, desenvolvedor back-end. Contatos na descrição do perfil!
 
-👩‍💻 Sobre Mim <br>
+## 👩‍💻 Sobre Mim <br>
 🔭 Desenvolvedor Back-End <br>
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
 💻 Crio aplicações utilizando Java e Python majoritariamente! <br>
